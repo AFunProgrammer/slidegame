@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<imagelist>
+	<image>
+		<location>paris</location>
+		<name>Paris</name>
+		<filename>paris2.jpg</filename>
+	</image>
+	<image>
+		<location>newyorkcity,nyc,ny,newyork,manhattan</location>
+		<name>New York City</name>
+		<filename>newyork0.jpg</filename>
+	</image>
+	<image>
+		<location>london</location>
+		<name>London</name>
+		<filename>london1.jpg</filename>
+	</image>
+	<image>
+		<location>legonewyorkcity,lego,legocity,ny,newyork,newyorkcity,nyc,manhattan</location>
+		<name>Lego New York City</name>
+		<filename>legonewyork.jpg</filename>
+	</image>
+	<image>
+		<location>sanfrancisco</location>
+		<name>San Francisco</name>
+		<filename>sanfrancisco0.jpeg</filename>
+	</image>
+	<image>
+		<location>london</location>
+		<name>London</name>
+		<filename>london4.jpg</filename>
+	</image>
+	<image>
+		<location>paris</location>
+		<name>Paris</name>
+		<filename>paris0.png</filename>
+	</image>
+	<image>
+		<location>newyorkcity,nyc,ny,newyork,manhattan</location>
+		<name>New York City</name>
+		<filename>newyork1.jpg</filename>
+	</image>
+	<image>
+		<location>london</location>
+		<name>London</name>
+		<filename>london2.jpg</filename>
+	</image>
+	<image>
+		<location>sanfrancisco</location>
+		<name>San Francisco</name>
+		<filename>sanfrancisco1.jpg</filename>
+	</image>
+	<image>
+		<location>seattle</location>
+		<name>Seattle</name>
+		<filename>seattle.jpg</filename>
+	</image>
+	<image>
+		<location>newyorkcity,nyc,ny,newyork,manhattan</location>
+		<name>New York City</name>
+		<filename>newyork3.jpg</filename>
+	</image>
+	<image>
+		<location>saltlakecity,slc</location>
+		<name>Salt Lake City</name>
+		<filename>slc0.jpg</filename>
+	</image>
+	<image>
+		<location>newyorkcity,nyc,ny,newyork,manhattan</location>
+		<name>New York City</name>
+		<filename>newyork2.jpg</filename>
+	</image>
+	<image>
+		<location>tokyo</location>
+		<name>Tokyo</name>
+		<filename>tokyo.jpg</filename>
+	</image>
+	<image>
+		<location>london</location>
+		<name>London</name>
+		<filename>london3.jpg</filename>
+	</image>
+	<image>
+		<location>tokyo</location>
+		<name>Tokyo</name>
+		<filename>tokyo0.jpg</filename>
+	</image>
+	<image>
+		<location>paris</location>
+		<name>Paris</name>
+		<filename>paris1.jpg</filename>
+	</image>
+	<image>
+		<location>london</location>
+		<name>London</name>
+		<filename>london0.jpg</filename>
+	</image>
+	<image>
+		<location>chicago</location>
+		<name>Chicago</name>
+		<filename>chicago0.jpg</filename>
+	</image>
+</imagelist>
