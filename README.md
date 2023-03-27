@@ -8,6 +8,9 @@ or
 
 and then download the .zip files to try out the game
 
-<a href="https://github.com/AFunProgrammer/slidegame/raw/main/Slidegame.zip">Download Regular Version of Slide Game</a>
-<a href="https://github.com/AFunProgrammer/slidegame/raw/main/SlideGame_LondonVersion.zip">Download London Version of Slide Game</a>
-
+<p>
+  <a href="https://github.com/AFunProgrammer/slidegame/raw/main/Slidegame.zip">Download Regular Version of Slide Game</a>
+</p>
+<p>
+  <a href="https://github.com/AFunProgrammer/slidegame/raw/main/SlideGame_LondonVersion.zip">Download London Version of Slide Game</a>
+</p>
